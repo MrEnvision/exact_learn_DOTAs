@@ -61,7 +61,7 @@ If we learn the target DOTA successfully, the final COTA will be drawn and displ
 
 ## License
 
-See [MIT LICENSE](https://github.com/MrEnvision/pac_learn_DOTAs/blob/master/LICENSE) file.
+See [MIT LICENSE](./LICENSE) file.
 
 ## Contact
 
